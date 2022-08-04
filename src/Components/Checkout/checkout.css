@@ -1,0 +1,33 @@
+.checkoutContainer .heading{
+    display:flex;
+    margin-bottom: 100px;
+}
+.heading div{
+    width:50%;
+    text-align: left;
+}
+.backIcon{
+   font-size: 3rem !important;
+   cursor: pointer;
+
+}
+.content{
+    margin-top: 30px;
+}
+.hdn{
+    color:rgb(172, 172, 172)
+}
+.footer{
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+.footer div{
+    color:#fff;
+    font-size: 1.3rem;
+    margin: 0px 7px;
+    
+}
+.forwardIcon{
+    margin-bottom: -5px;
+}
